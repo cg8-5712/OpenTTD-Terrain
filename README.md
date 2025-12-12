@@ -37,7 +37,7 @@
 
 1. **克隆或下载项目**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/cg8-5712/OpenTTD-Terrain.git
 cd Terrain
 ```
 
@@ -301,7 +301,7 @@ performance:
 如有问题或建议，欢迎通过以下方式联系：
 
 - 项目 Issue 页面
-- Email: [您的邮箱]
+- Email: [5712.cg8@gmail.com](mailto://5712.cg8@gmail.com)
 
 ## 🙏 致谢
 
