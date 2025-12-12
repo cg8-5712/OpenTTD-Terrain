@@ -1,0 +1,20 @@
+{
+  "size": [
+    1024,
+    1024
+  ],
+  "seed": null,
+  "tectonic_uplift": 0.7,
+  "tectonic_pattern": "convergent",
+  "rock_hardness": 0.8,
+  "terrain_age": 0.6,
+  "precipitation": 0.3,
+  "temperature": 0.2,
+  "wind_intensity": 0.6,
+  "distance_to_coast": 0.8,
+  "num_regions": 4,
+  "region_contrast": 0.6,
+  "erosion_iterations": 10,
+  "river_intensity": 0.8,
+  "glacial_intensity": 0.3
+}
